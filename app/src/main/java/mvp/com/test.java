@@ -1,4 +1,4 @@
-package mvp;
+package mvp.com;
 
 public class test {
 }
